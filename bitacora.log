@@ -1,0 +1,10 @@
+nov 27, 2019 8:53:40 PM bitacora2.App main
+INFORMACIÓN: Bitacora inicializada
+nov 27, 2019 8:53:40 PM bitacora2.App main
+INFORMACIÓN: Probando manejo de excepciones
+nov 27, 2019 8:53:40 PM bitacora2.App main
+GRAVE: java.lang.Exception: ERROR DE CONTROL DE FLUJO DE PROGRAMA
+	at bitacora2.App.main(App.java:72)
+
+nov 27, 2019 8:53:40 PM bitacora2.App main
+INFORMACIÓN: Programa terminado exitosamente
